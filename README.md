@@ -4,4 +4,4 @@ Interaktiv studiesida i biologi (Biologi 1 och 2) med klickbara bilder, animatio
 
 Öppna sidan: se länken under **About** / GitHub Pages.
 
-Kapitel: Cellens karta · Membranets portar · Osmos · Aktiv transport · Mikrobernas värld · Antibiotika & resistens · Växtcellen · Svampar · Livets kemi · Alla begrepp
+Kapitel: Cellens karta · Membranets portar · Osmos · Aktiv transport · Mikrobernas värld · Antibiotika & resistens · Växtcellen · Svampar · Psilocybin · Livets kemi · Alla begrepp
